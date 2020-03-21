@@ -22,7 +22,7 @@ title: HOME - GhostTyrant
 
   {% for post in site.posts %}
 	    <div class="column">
-			<a href="{{ post.url }}">   
+			<a href="{{site.baseurl}}{{ post.url }}">   
 				<img src="{{post.artThumb}}" class="image">
 				<div class="overlay">
 					<div class="overlayText">{{post.artTitle}}</div>
