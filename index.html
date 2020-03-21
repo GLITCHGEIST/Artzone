@@ -4,8 +4,8 @@ title: HOME - GhostTyrant
 ---
 
 <div class="header">
- <a href="/2020/02/03/danny-phantom.html"> 
- <img src="/assets/danny_header.png" class="headerImg">
+ <a href="{{site.baseurl}}/2020/02/03/danny-phantom.html"> 
+ <img src="{{site.baseurl}}/assets/danny_header.png" class="headerImg">
     <div class="overlay">
 	    <div class="overlayText">DANNY PHANTOM</div>
    </div>
@@ -23,7 +23,7 @@ title: HOME - GhostTyrant
   {% for post in site.posts %}
 	    <div class="column">
 			<a href="{{site.baseurl}}{{ post.url }}">   
-				<img src="{{post.artThumb}}" class="image">
+				<img src="{{site.baseurl}}{{post.artThumb}}" class="image">
 				<div class="overlay">
 					<div class="overlayText">{{post.artTitle}}</div>
 				</div> 
