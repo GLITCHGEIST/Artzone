@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+<title>{{page.title}}</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body onload="resizeFunction()" onresize="resizeFunction()">
+
+<div id="navBar" class="navBarBase">
+	<div id="navActiveZone" class="navBarActiveZone">
+		<a href="/">   
+		<img src="/assets/ghosttyrant_title.png" id="navTitle" class="navBarTitle">
+		</a>
+		
+		<div id="navBarLinks" class="navBarLinkList">
+				
+				<a href="https://glitchgeist.itch.io/">
+					<img src="/assets/ui/itch.png" class= "navBarLinkItem">
+				</a>
+				
+				<a href="https://twitter.com/GhostTyrant/">
+					<img src="/assets/ui/twitter.png" class= "navBarLinkItem">
+				</a>
+				
+				<a href="/about/">
+					<img src="/assets/ui/about.png" class= "navBarLinkItem">
+				</a>
+				
+				<a href="/">
+					<img src="/assets/ghost_icon.png" class= "navBarLinkHome">
+				</a>
+
+		</div>
+		
+		<a href="/">   
+		<img src="/assets/ghost_icon_outline.png" class="navIcon" id="navIcon">
+		</a>
+	</div>
+</div>
+
+
+<section>
+      {{ content }}
+</section>
+
+<div class="footer">
+  <p>© 2020 all rights reserved. Please don't repost my art.</p>
+</div>
+
+
+
+<script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("navBar").style.height = "40px";
+	document.getElementById("navIcon").style.top = "0px";	
+	document.getElementById("navBarLinks").style.padding = "0px";	
+  } else {
+    document.getElementById("navBar").style.height = "80px";
+	document.getElementById("navIcon").style.top = "20px";	
+	document.getElementById("navBarLinks").style.padding = "15px";
+  }
+}
+
+function resizeFunction(){
+  var w = window.innerWidth;
+  if (innerWidth < 1400) {
+	document.getElementById("navActiveZone").style.width = w + "px";
+  }
+  else {
+  	document.getElementById("navActiveZone").style.width = "1400px";
+  }
+
+}
+
+</script>
+
+</body>
+</html>
