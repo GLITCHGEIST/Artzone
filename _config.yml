@@ -22,7 +22,7 @@ title: GhostTyrant
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'M CASPAR. Just a pile of ghosts. I do art for fun.
-baseurl: "/Artzone" 
+baseurl: ""
 #the subpath of your site, e.g. /blog
 url: "" 
 #the base hostname & protocol for your site, e.g. http://example.com
