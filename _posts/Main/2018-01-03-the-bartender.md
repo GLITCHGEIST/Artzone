@@ -11,5 +11,5 @@ artThumb: /assets/thumbnails/thumb_bartender.png
 artTwitter: https://twitter.com/GhostTyrant/status/975462573599543297
 artMastodon: https://mastodon.art/@GhostTyrant
 
-tags: art test
+tags: polished
 ---

@@ -11,5 +11,5 @@ artThumb: /assets/thumbnails/thumb_dante.png
 artTwitter: https://twitter.com/GhostTyrant/status/1236755208698580998
 artMastodon: https://mastodon.art/@GhostTyrant
 
-tags: art test
+tags: polished
 ---

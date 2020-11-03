@@ -11,5 +11,5 @@ artThumb: /assets/thumbnails/thumb_ootd.png
 artTwitter: https://twitter.com/GhostTyrant/status/970377540400541700
 artMastodon: https://mastodon.art/@GhostTyrant
 
-tags: art test
+tags: polished
 ---

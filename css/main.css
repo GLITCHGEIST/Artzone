@@ -50,18 +50,22 @@ body {
 
 
 .navDropdown {	
-  position:absolute; 
-  top:0;
-  right:0;
-  bottom:0;
-  display:block;
-  margin:auto;
-  z-index: 7;
+  float: right;
 
+  padding-left:7px;
+  padding-right:7px;
   
-  width: 100px;
-  height: auto;
-  max-height:100%;
+  margin:auto;
+  object-fit: contain;
+
+  width:auto;
+  max-width:50px;
+  height:150%;
+
+  -o-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
 }
 
 .navDropdown:hover .navDropdown-Content{
@@ -70,44 +74,38 @@ display:block;
 
 .navDropdown-Content{
   display:none;	
+  
   position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
   top:100%;
-  right:0;
-  width:100%;
-  overflow:auto;
+  /*left:0;*/
+
+ background-color: #111111;
 }
 
 .navDropdown-Content a {
   color: white;
-  padding: 12px 16px;
   text-decoration: none;
-  display: block;
+  padding: 12px 16px;
   font-size:20px;
+  display: block;
 }
 
 .navDropdown-Content a:hover {
- background-color: #f1f1f1;
+ background-color: #222222;
 }
 
-
-.navDropdownIcon {
-  position:absolute;
-  left: 0;
-  right: 0;
-  top:0;
-  bottom:0;
-  z-index: 6;
-  
-  max-height: 80%;
-  max-width: 80%;
-  
-  display: block;
-  margin:auto;
+.navDropdown-Icon{
   object-fit: contain;
+  margin:auto;
+  width:50px;
+  max-height:100%;
+  
+  -o-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  
 }
-
 
 
 

@@ -11,5 +11,5 @@ artThumb: /assets/thumbnails/thumb_threeDiamonds.png
 artTwitter: https://twitter.com/GhostTyrant/status/995710910948888576
 artMastodon: https://mastodon.art/@GhostTyrant
 
-tags: art test
+tags: polished
 ---

@@ -11,5 +11,5 @@ artThumb: /assets/thumbnails/thumb_roeink.png
 artTwitter: https://twitter.com/GhostTyrant/status/1047569879577055232
 artMastodon: https://mastodon.art/@GhostTyrant
 
-tags: art test
+tags: polished
 ---

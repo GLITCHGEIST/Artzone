@@ -29,6 +29,16 @@
 					<img src="{{site.baseurl}}/assets/ui/about.png" class= "navBarLinkItem">
 				</a>
 				
+
+				<div id="navDrop" class="navDropdown">			
+					  <img src="{{site.baseurl}}/assets/ui/eye.png" class= "navDropdown-Icon" id="navDropIcon">
+					
+					  <div class="navDropdown-Content">
+						<a href="{{site.baseurl}}/">Polished</a>
+						<a href="{{site.baseurl}}/sketch">Quick</a>
+					</div>
+				</div
+				
 				<a href="{{site.baseurl}}/">
 					<img src="{{site.baseurl}}/assets/ghost_icon.png" class= "navBarLinkHome">
 				</a>
@@ -59,11 +69,16 @@ function scrollFunction() {
   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
     document.getElementById("navBar").style.height = "40px";
 	document.getElementById("navIcon").style.top = "0px";	
-	document.getElementById("navBarLinks").style.padding = "0px";	
+	document.getElementById("navBarLinks").style.padding = "0px";
+	document.getElementById("navDrop").style.height = "125%";	
+	document.getElementById("navDrop").style.paddingRight = "0";
+
   } else {
     document.getElementById("navBar").style.height = "80px";
 	document.getElementById("navIcon").style.top = "20px";	
 	document.getElementById("navBarLinks").style.padding = "15px";
+	document.getElementById("navDrop").style.height = "150%";	
+	document.getElementById("navDrop").style.paddingRight = "7px";
   }
 }
 
