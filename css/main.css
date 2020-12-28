@@ -337,6 +337,7 @@ transition: 0.4s;
 .overlayText {
   color: white;
   font-size: 50px;
+  font-weight:normal;
   text-align:center;
   text-transform: uppercase;
   z-index:2;
@@ -390,6 +391,20 @@ transition: 0.4s;
  width: 60px;
  height: 60px;
 }
+
+
+a {
+  color: lime;
+  text-decoration: none;
+  font-weight:bold;
+}
+
+a:hover {
+  color: green;
+  text-decoration: none;
+  font-weight:bold;
+}
+
 
 
 .textContainer {
