@@ -55,3 +55,4 @@ plugins:
 #   - vendor/ruby/
 
 theme: jekyll-theme-midnight
+future: true

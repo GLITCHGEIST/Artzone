@@ -359,6 +359,51 @@ transition: 0.4s;
 }
 
 
+
+.postContainer{
+  background-color: #1e1e1e;
+  object-fit:contain;
+  margin:auto;
+  display:block;
+
+  width: 100%;
+  height: auto;
+  
+  max-width:1000px;
+}
+
+
+.postHeader{
+  object-fit:cover;
+  margin:auto;
+  display:block;
+
+  width: 100%;
+  height: 200px;
+  
+  max-width:1000px;
+}
+
+
+.postMainText{
+  color: #ababab;
+  font-size: 50px;
+  text-align:left;
+  z-index:2;
+  padding:25px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+.postBreak {
+ border-top:dashed;
+ border-width:5px;
+ border-color:#1b1b1b;
+ height: 1px;
+}
+
+
+
 .artPageImg{
   
   object-fit:contain;
@@ -380,12 +425,12 @@ transition: 0.4s;
 }
 
 .artPageNav{
- display: block;
- margin:auto;
- padding-top:20px;
- padding-bottom:20px;
- width:160px;
-}
+  display: block;
+  margin:auto;
+  padding-top:20px;
+  padding-bottom:20px;
+  width:300px;
+ }
 
 .artPageNavButton{
  width: 60px;
