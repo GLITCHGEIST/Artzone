@@ -427,14 +427,39 @@ transition: 0.4s;
 .artPageNav{
   display: block;
   margin:auto;
-  padding-top:20px;
+  padding-top:5px;
   padding-bottom:20px;
-  width:300px;
+  width:600px;
  }
 
-.artPageNavButton{
- width: 60px;
+.artPageInfoIcon{
+ width: auto;
  height: 60px;
+ margin:auto;
+ display:block;
+}
+
+.artPageInfoButton{
+  width: auto;
+  height: 75px;
+  display: block; 
+  margin:auto;
+  border:none;
+  padding: 0;
+  background:none;
+  cursor:pointer;
+ }
+
+.artPageInfoBox{
+  margin:auto;
+  display: block;
+  padding: 0 18px;
+  max-height: 0;
+  width: 500px;
+  overflow: hidden;  
+  background-color: #1c1e1f;
+
+  transition: max-height 0.2s ease-out;
 }
 
 

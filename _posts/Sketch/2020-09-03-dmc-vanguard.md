@@ -8,8 +8,8 @@ artDesc: Fanart - Devil May Cry 3
 artYear: 2020
 artPath: /assets/sk_fullsize/fullsize_dmcVanguard.png
 artThumb: /assets/sk_thumbnails/thumb_dmcVanguard.png
-artTwitter: https://twitter.com/GhostTyrant
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: sketch
 ---
+
+NO ADDITIONAL INFO

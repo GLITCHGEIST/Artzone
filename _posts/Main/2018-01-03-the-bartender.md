@@ -8,8 +8,8 @@ artDesc: Original Work
 artYear: 2018
 artPath: /assets/fullsize/fullsize_bartender.png
 artThumb: /assets/thumbnails/thumb_bartender.png
-artTwitter: https://twitter.com/GhostTyrant/status/975462573599543297
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: polished
 ---
+
+NO ADDITIONAL INFO

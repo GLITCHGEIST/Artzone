@@ -8,8 +8,8 @@ artDesc: Original Work
 artYear: 2017
 artPath: /assets/fullsize/fullsize_ghostTwister.png
 artThumb: /assets/thumbnails/thumb_ghostTwister.png
-artTwitter: https://twitter.com/GhostTyrant/
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: polished
 ---
+
+NO ADDITIONAL INFO

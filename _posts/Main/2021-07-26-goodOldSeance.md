@@ -8,8 +8,8 @@ artDesc: Fanart - BEETLEJUICE The Musical
 artYear: 2021
 artPath: /assets/fullsize/fullsize_goodOldSeance.png
 artThumb: /assets/thumbnails/thumb_goodOldSeance.png
-artTwitter: https://twitter.com/GhostTyrant/
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: polished
 ---
+
+BEETLEJUICE design inspired by [Shnikkles!](https://twitter.com/Shnikkles)

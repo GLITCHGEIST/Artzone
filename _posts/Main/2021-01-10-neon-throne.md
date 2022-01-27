@@ -8,8 +8,8 @@ artDesc: Original Work
 artYear: 2021
 artPath: /assets/fullsize/fullsize_neonThrone.png
 artThumb: /assets/thumbnails/thumb_neonThrone.png
-artTwitter: https://twitter.com/GhostTyrant/
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: polished
 ---
+
+NO ADDITIONAL INFO

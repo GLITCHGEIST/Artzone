@@ -8,8 +8,8 @@ artDesc: Fanart - Danny Phantom
 artYear: 2020
 artPath: /assets/fullsize/fullsize_dannyP.png
 artThumb: /assets/thumbnails/thumb_dannyP.png
-artTwitter: https://twitter.com/GhostTyrant/
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: polished
 ---
+
+NO ADDITIONAL INFO

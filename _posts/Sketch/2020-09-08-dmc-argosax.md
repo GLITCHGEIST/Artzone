@@ -8,8 +8,8 @@ artDesc: Fanart - Devil May Cry 2
 artYear: 2020
 artPath: /assets/sk_fullsize/fullsize_dmcArgosax.png
 artThumb: /assets/sk_thumbnails/thumb_dmcArgosax.png
-artTwitter: https://twitter.com/GhostTyrant
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: sketch
 ---
+
+NO ADDITIONAL INFO

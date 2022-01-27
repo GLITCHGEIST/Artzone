@@ -14,14 +14,29 @@ layout: default
 
 
 <div class="artPageNav">
-<a href="{{page.artTwitter}}">
-<!--<img src="/assets/ui/twitter.png" class="artPageNavButton" style="float:left">-->
-<img src="{{site.baseurl}}/assets/ui/twitter.png" class="artPageNavButton" style="display: block; margin:auto">
-</a>
-
-<!--<a href="{{page.artTwitter}}">
-<img src="/assets/ui/twitter.png" class="artPageNavButton" style="float:right">
-</a>-->
+    <button class="artPageInfoButton" title="INFO"><img src="{{site.baseurl}}/assets/ui/speech.png" class="artPageInfoIcon"></button>
+    <div class="artPageInfoBox">
+        <div class="artPageText" style="font-size:15px; color:#ababab;padding: 10px 10px">{{content}}</div>
+    </div>
 </div>
 
 <div class="break" style="height:40px"> </div>
+
+
+
+<script>
+    var coll = document.getElementsByClassName("artPageInfoButton");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.maxHeight){
+          content.style.maxHeight = null;
+        } else {
+          content.style.maxHeight = content.scrollHeight + "px";
+        } 
+      });
+    }
+</script>

@@ -8,8 +8,8 @@ artDesc: Original Work
 artYear: 2018
 artPath: /assets/fullsize/fullsize_threeDiamonds.png
 artThumb: /assets/thumbnails/thumb_threeDiamonds.png
-artTwitter: https://twitter.com/GhostTyrant/status/995710910948888576
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: polished
 ---
+
+NO ADDITIONAL INFO

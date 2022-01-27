@@ -8,8 +8,8 @@ artDesc: Commission
 artYear: 2018
 artPath: /assets/fullsize/fullsize_melonfriend.png
 artThumb: /assets/thumbnails/thumb_melonfriend.png
-artTwitter: https://twitter.com/GhostTyrant/
-artMastodon: https://mastodon.art/@GhostTyrant
 
 tags: polished
 ---
+
+Commission for [DrMelon!](https://twitter.com/DrMelon)
