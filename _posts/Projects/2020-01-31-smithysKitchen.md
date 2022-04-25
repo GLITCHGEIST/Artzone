@@ -13,8 +13,7 @@ headerPath: /assets/projects/headers/header_smithysKitchen.png
 tags: project
 ---
 
-<b>SMITHY'S KITCHEN</b> is a VR game about cooking? smithing? a new sword for a gingerbread warrior. Made with a friend for [Global Game Jam 2020](https://globalgamejam.org/). 
-<br>I wanted to make a haunted house, I wanted to hang out with my friends to celebrate the spooky season, I wanted to make neon pixels. I combined all of these thoughts and this is what appeared in my mind.
+<b>SMITHY'S KITCHEN</b> is a VR game about cooking? smithing? a new sword for a gingerbread warrior. Made with a friend for [Global Game Jam 2020](https://globalgamejam.org/).
 
 Play [here!](https://johnjoemcbob.itch.io/smithyskitchen)
 <br>Watch a walkthrough [here!](https://www.youtube.com/watch?v=ZIW52M1NQow)
