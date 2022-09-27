@@ -17,7 +17,7 @@ tags: project
 <br>I handled most of the art (low-poly models, playing cards, gameplay UI) and contributed code here and there for the UI.
 
 Play [here!](https://gamejolt.com/games/perfect_draw/730210)
-Watch a playthough [here!](https://www.youtube.com/watch?v=sSZ3nxEE5M0)
+<br>Watch a playthough [here!](https://www.youtube.com/watch?v=sSZ3nxEE5M0)
 
 <b>Teammates</b>
 <br>[DrMelon](https://twitter.com/DrMelon) - SFX
