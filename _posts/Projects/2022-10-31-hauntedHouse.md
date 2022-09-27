@@ -22,13 +22,13 @@ The 3rd house is built with Unity and [YarnSpinner](https://yarnspinner.dev/)
 <br>
 
 {:refdef: style="text-align: center;"}
-![one](/assets/projects/hauntedhouse_0.gif)
+![one](/assets/projects/hauntedHouse_0.gif)
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![three](/assets/projects/hauntedhouse_1.gif)
+![three](/assets/projects/hauntedHouse_1.gif)
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![two](/assets/projects/hauntedhouse_2.gif)
+![two](/assets/projects/hauntedHouse_2.gif)
 {: refdef}
