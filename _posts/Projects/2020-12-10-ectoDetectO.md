@@ -13,12 +13,25 @@ headerPath: /assets/projects/headers/header_ectoDetectO.png
 tags: project
 ---
 
-<b>ECTO-DETECT-O</b> is a remake/sequel(?) to a jam game I made years ago. It's about hanging out at a party and taking photos of ghosts.
+<b>ECTO-DETECT-O</b> is a remake/sequel(?) to a jam game I made years ago. It's about hanging out at a party, taking photos of ghosts and completing mini-quests.
 <br>This was essentially a playground where I could experiment with Unity at my own pace and write dialogue for my OCs. It's currently On Hiatus but I love the mechanics so much that I may come back to it.
 
 Food and House 3D model kits are from [Kenney](https://kenney.nl/)
+<br>Dialogue built using [YarnSpinner](https://yarnspinner.dev/)
 
 <br>
+
+{:refdef: style="text-align: center;"}
+![ten](/assets/projects/ectoDetectO_10.gif)
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+![eight](/assets/projects/ectoDetectO_8.gif)
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+![nine](/assets/projects/ectoDetectO_9.gif)
+{: refdef}
 
 {:refdef: style="text-align: center;"}
 ![one](/assets/projects/ectoDetectO_0.png)
