@@ -50,9 +50,9 @@ body {
   font-variation-settings: "wght" 300;
 
   background-color: var(--deepest-blue);
-  /*background-image: url("bg.png");*/
+  /*background-image: url("bg.png");
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed;*/
   color: var(--cyan-blue);
 
 
