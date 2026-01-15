@@ -317,7 +317,6 @@ body {
 
 
 .break {
-  background-color: #252525;
   opacity: 0;
   height: 20px;
   clear: both;
@@ -346,9 +345,6 @@ body {
   width: 25.00%;
   width: 350px;
   height: 350px;
-  color: white;
-  background-color: #aaaaaa;
-
   position: relative;
 }
 
