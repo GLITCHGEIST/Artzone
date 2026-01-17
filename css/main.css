@@ -530,7 +530,7 @@ body {
   text-align: center;
   z-index: 2;
   font-family: 'Rowdies';
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .artPageNav {
