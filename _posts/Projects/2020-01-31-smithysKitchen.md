@@ -19,7 +19,7 @@ Play [here!](https://johnjoemcbob.itch.io/smithyskitchen)
 <br>Watch a walkthrough [here!](https://www.youtube.com/watch?v=ZIW52M1NQow)
 
 <b>Teammates</b>
-<br>[johnjoemcbob](https://twitter.com/johnjoemcbob) - Code
+<br>[johnjoemcbob]({{site.itch_johnjoemcbob}}) - Code
 
 Food 3D model kits are from [Kenney](https://kenney.nl/)
 

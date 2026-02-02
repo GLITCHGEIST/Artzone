@@ -18,9 +18,9 @@ tags: project
 Play [here!](https://johnjoemcbob.itch.io/berry-abode)
 
 <b>Teammates</b>
-<br>[DrMelon](https://twitter.com/DrMelon) - Code
-<br>[johnjoemcbob](https://twitter.com/johnjoemcbob) - Code
-<br>[tackyvillain](https://twitter.com/tackyvillain) - Art
+<br>[DrMelon]({{site.itch_drmelon}}) - Code
+<br>[johnjoemcbob]({{site.itch_johnjoemcbob}}) - Code
+<br>[tackyvillain]({{site.itch_tackyvillain}}) - Art
 
 <br>
 

@@ -13,17 +13,17 @@ headerPath: /assets/projects/headers/header_biomeGhoullery.png
 tags: project
 ---
 
-The <b>BIOME GHOULLERY</b> was a fun little Halloween Treat I made for my friends and I, located within the [Biome Gallery](https://biome-gallery.glitch.me). 
-<br>I wanted to make a haunted house, I wanted to hang out with my friends to celebrate the spooky season, I wanted to make neon pixels. I combined all of these thoughts and this is what appeared in my mind.
+The <b>BIOME GHOULLERY</b> was an online haunted house attraction I made for my friends, located within the <b>Biome Gallery</b>. 
 
-The Biome Gallery is an online social space, built and hosted on the [glitch](https://glitch.com/) platform, and based on the [Online Museum of Multiplayer Art](https://likelike.glitch.me/?room=likelikeOutside).
+The Biome Gallery was an online social space, built and hosted on the [glitch](https://glitch.com/) platform and based on the [Online Museum of Multiplayer Art](https://online.likelike.org/). 
+<br>The gallery has been offline since glitch shut down in 2025, rendering the <b>BIOME GHOULLERY</b> inaccessible.
 
 Watch a walkthrough [here!](https://www.youtube.com/watch?v=Ybysrx3o-sI)
 
 <b>Teammates</b>
-<br>Code - [NiallEM](https://twitter.com/NiallEM/)
-<br>Music - [tomdemajo](https://twitter.com/tomdemajo/)
-<br>Gallery Caretakers - [jctwizard](https://twitter.com/jctwizard/) / [johnjoemcbob](https://twitter.com/johnjoemcbob) / [NiallEM](https://twitter.com/NiallEM/)
+<br>Code - [NiallEM]({{site.web_niallem}})
+<br>Music - [tomdemajo]({{site.web_tomdemajo}})
+<br>Gallery Caretakers - [jctwizard]({{site.itch_jctwizard}}) / [johnjoemcbob]({{site.itch_johnjoemcbob}}) / [NiallEM]({{site.web_niallem}})
 
 <br>
 

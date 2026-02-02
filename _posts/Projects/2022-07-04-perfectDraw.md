@@ -20,9 +20,9 @@ Play [here!](https://gamejolt.com/games/perfect_draw/730210)
 <br>Watch a playthough [here!](https://www.youtube.com/watch?v=sSZ3nxEE5M0)
 
 <b>Teammates</b>
-<br>[DrMelon](https://twitter.com/DrMelon) - SFX
-<br>[johnjoemcbob](https://twitter.com/johnjoemcbob) - Code / Menu UI
-<br>[leafcodes](https://twitter.com/leafcodes) - Code
+<br>[DrMelon]({{site.itch_drmelon}}) - SFX
+<br>[johnjoemcbob]({{site.itch_johnjoemcbob}}) - Code / Menu UI
+<br>[leafcodes]({{site.itch_leafcodes}}) - Code
 
 Very cool shaders were from [Flatkit](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-toon-shading-and-water-143368)
 <br>Feedback and cool effects created with help from [Feel](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
