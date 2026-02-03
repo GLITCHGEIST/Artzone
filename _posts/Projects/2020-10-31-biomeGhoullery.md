@@ -16,7 +16,7 @@ tags: project
 The <b>BIOME GHOULLERY</b> was an online haunted house attraction I made for my friends, located within the <b>Biome Gallery</b>. 
 
 The Biome Gallery was an online social space, built and hosted on the [glitch](https://glitch.com/) platform and based on the [Online Museum of Multiplayer Art](https://online.likelike.org/). 
-<br>The gallery has been offline since glitch shut down in 2025, rendering the <b>BIOME GHOULLERY</b> inaccessible.
+<br>The gallery has been offline since glitch shut down in 2025, rendering the BIOME GHOULLERY inaccessible.
 
 Watch a walkthrough [here!](https://www.youtube.com/watch?v=Ybysrx3o-sI)
 
