@@ -4,7 +4,7 @@ title: HAUNTED HOUSE - GhostTyrant
 date:   2022-10-31
 
 artTitle: HAUNTED HOUSE
-monthYear: ONGOING
+monthYear: OCT 2022
 projectRole: Pixels! Coding!
 
 artThumb: /assets/projects/thumbnails/thumb_hauntedHouse.png
