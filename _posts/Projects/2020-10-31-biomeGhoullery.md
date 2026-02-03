@@ -21,9 +21,13 @@ The Biome Gallery was an online social space, built and hosted on the [glitch](h
 Watch a walkthrough [here!](https://www.youtube.com/watch?v=Ybysrx3o-sI)
 
 <b>Teammates</b>
-<br>Code - [NiallEM]({{site.web_niallem}})
-<br>Music - [tomdemajo]({{site.web_tomdemajo}})
-<br>Gallery Caretakers - [jctwizard]({{site.itch_jctwizard}}) / [johnjoemcbob]({{site.itch_johnjoemcbob}}) / [NiallEM]({{site.web_niallem}})
+<br><span class="postBullet">★</span> [NiallEM]({{site.web_niallem}}) - Code
+<br><span class="postBullet">★</span> [tomdemajo]({{site.web_tomdemajo}}) - Music
+
+<b>Gallery Caretakers</b>
+<br><span class="postBullet">★</span> [jctwizard]({{site.itch_jctwizard}})
+<br><span class="postBullet">★</span> [johnjoemcbob]({{site.itch_johnjoemcbob}})
+<br><span class="postBullet">★</span> [NiallEM]({{site.web_niallem}})
 
 <br>
 

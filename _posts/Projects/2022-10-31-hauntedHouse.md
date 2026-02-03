@@ -15,9 +15,10 @@ tags: project
 
 <b>HALLOWEEN 2021</b> saw me getting over-ambitious. I had planned to release a collection of <b>haunted houses</b> built on the [glitch](https://glitch.com/) platform, and based on the [Online Museum of Multiplayer Art](https://online.likelike.org/).
 
-The idea was to have 3 individually themed houses that players could explore with their friends. I had 2 of the houses mapped out and sketched, but my ideas for the 3rd house stretched beyond the LikeLike limitations, so I began developing it as a separate game.
+The idea was to have 3 individually themed houses that players could explore with their friends. I had 2 of the houses mapped out and sketched, but my ideas for the 3rd house stretched beyond the LikeLike limitations, so I began developing it as a separate game in Unity.
 
-The 3rd house is built with Unity and [YarnSpinner](https://yarnspinner.dev/)
+<b>Additional Credits</b>
+<br><span class="postBullet">★</span> The 3rd house utilises [YarnSpinner](https://yarnspinner.dev/)
 
 <br>
 

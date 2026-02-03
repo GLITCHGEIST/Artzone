@@ -21,8 +21,27 @@
 
 @font-face {
   font-family: RadioCanada;
-  src: url('/assets/fonts/RadioCanada-VariableFont_wdth\,wght.ttf');
+  src: url('/assets/fonts/RadioCanada-Light.ttf');
   padding: 5px;
+}
+
+@font-face {
+  font-family: RadioCanada;
+  src: url('/assets/fonts/RadioCanada-Bold.ttf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: RadioCanada;
+  src: url('/assets/fonts/RadioCanada-LightItalic.ttf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: RadioCanada;
+  src: url('/assets/fonts/RadioCanada-BoldItalic.ttf');
+  font-style: italic;
+  font-weight: bold;
 }
 
 @font-face {
@@ -46,16 +65,8 @@
 
 body {
   font-family: 'RadioCanada', sans-serif;
-  font-variation-settings: "wdth" 60;
-  font-variation-settings: "wght" 300;
-
   background-color: var(--deepest-blue);
-  /*background-image: url("bg.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;*/
   color: var(--cyan-blue);
-
-
   display: flex;
   flex-direction: column;
 }
@@ -68,6 +79,21 @@ html {
 html,
 body {
   height: 100%;
+}
+
+strong {
+  /* this styles bold text */
+  color: var(--neon-green);
+}
+
+
+a {
+  color: var(--neon-green);
+  font-weight: bold;
+  cursor: crosshair;
+  /* if you want to remove the underline
+you can add a line below here that says:
+text-decoration:none; */
 }
 
 .content {
@@ -502,6 +528,10 @@ body {
   margin-left: 30px;
 
   filter: opacity(25%);
+}
+
+.postBullet {
+  color: var(--neon-pink);
 }
 
 .artPageImg {

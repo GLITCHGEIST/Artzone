@@ -16,8 +16,9 @@ tags: project
 <b>ECTO-DETECT-O</b> is a remake/sequel(?) to a jam game I made years ago. It's about hanging out at a party, taking photos of ghosts and completing mini-quests.
 <br>This was essentially a playground where I could experiment with Unity at my own pace and write dialogue for my OCs. It has since been shelved while I focus on current projects.
 
-Food and House 3D model kits are from [Kenney](https://kenney.nl/)
-<br>Dialogue built using [YarnSpinner](https://yarnspinner.dev/)
+<b>Additional Credits</b>
+<br><span class="postBullet">★</span> Food and House 3D model kits are from [Kenney](https://kenney.nl/)
+<br><span class="postBullet">★</span> Dialogue built using [YarnSpinner](https://yarnspinner.dev/)
 
 <br>
 
